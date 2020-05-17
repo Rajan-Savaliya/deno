@@ -27,3 +27,5 @@ more specifics.
 [Chat](https://discord.gg/TGMHGv6)
 
 [More links](https://github.com/denolib/awesome-deno)
+
+node --> deno
